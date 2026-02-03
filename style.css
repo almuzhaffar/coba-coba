@@ -121,21 +121,7 @@ html, body {
     overflow-x: hidden;
 }
 
-.page.cover {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
 
-.cover-img {
-    width: 70%;
-    max-height: 60%;
-    object-fit: cover;
-    border-radius: 50%;
-    margin: 15px 0;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-}
 
 
 
